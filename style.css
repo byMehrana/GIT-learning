@@ -2,3 +2,6 @@ header{
     font-size: 40px;
     background: linear-gradient(to right, rgb(228, 123, 141), rgb(141, 27, 27) , rgb(80, 6, 6));
 }
+.slider{
+    background-color: black;
+}
